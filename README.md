@@ -1,1 +1,1 @@
-# WPH-synthesis
+# Wavelet Phase Harmonics with Camels simulation
